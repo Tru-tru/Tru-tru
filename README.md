@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```txt
+Only an interest to the things outside could keep people mental health.
+```
+
 <!--
 **Tru-tru/Tru-tru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
