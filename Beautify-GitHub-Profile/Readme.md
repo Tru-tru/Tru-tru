@@ -1,3 +1,7 @@
 - [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [Github Dynamic Quotes for Readme](https://github-readme-quotes.herokuapp.com)
 - [Quality metadata badges for open source projects](https://shields.io)
