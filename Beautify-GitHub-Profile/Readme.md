@@ -1,0 +1,3 @@
+- [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+- [Github Dynamic Quotes for Readme](https://github-readme-quotes.herokuapp.com)
+- [Quality metadata badges for open source projects](https://shields.io)
