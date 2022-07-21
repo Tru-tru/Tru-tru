@@ -5,3 +5,4 @@
 - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [Github Dynamic Quotes for Readme](https://github-readme-quotes.herokuapp.com)
 - [Quality metadata badges for open source projects](https://shields.io)
+- [starcharts](https://starchart.cc "https://github.com/caarlos0/starcharts")
